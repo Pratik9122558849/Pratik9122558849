@@ -104,7 +104,12 @@
 ## `ping pratik`
 
 <p align="center">
-  <a href="https://github.com/Pratik9122558849"><img src="https://img.shields.io/badge/GitHub-Connect-00ff9d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Connect on GitHub" /></a>
+  <a href="https://github.com/Pratik9122558849"><img src="https://img.shields.io/badge/GitHub-Connect-00ff9d?style=flat-square&logo=github&logoColor=white&labelColor=0d2117" alt="Connect on GitHub" /></a>
+  <a href="mailto:pratik.shourabh@gmail.com"><img src="https://img.shields.io/badge/Email-pratik.shourabh%40gmail.com-00ff9d?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Pratik" /></a>
+  <a href="https://www.instagram.com/pratik_shourabh/"><img src="https://img.shields.io/badge/Instagram-%40pratik__shourabh-00ff9d?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
+  <a href="https://facebook.com/pratik.shourabh"><img src="https://img.shields.io/badge/Facebook-pratik.shourabh-00ff9d?style=flat-square&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook" /></a>
+  <a href="https://youtube.com/channel/UC_alDCHE4Td03PNTlaXQWeA"><img src="https://img.shields.io/badge/YouTube-Subscribe-00ff9d?style=flat-square&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
+  <a href="https://x.com/pratikshourabh"><img src="https://img.shields.io/badge/X-%40pratikshourabh-00ff9d?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="X" /></a>
 </p>
 
 <p align="center"><code>Build. Test. Harden. Repeat.</code></p>
