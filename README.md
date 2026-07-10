@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Pratik Shourabh</h1>
 <h3 align="center">PHP Developer | Full Stack Developer | Problem Solver</h3>
 
@@ -49,15 +48,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratik9122558849&show_icons=true&theme=tokyonight&hide_border=true" alt="Pratik's GitHub stats" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik9122558849&theme=tokyonight&hide_border=true" alt="Pratik's GitHub streak" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik9122558849&layout=compact&theme=tokyonight&hide_border=true" alt="Pratik's top languages" />
 
 </p>
 
@@ -66,7 +65,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik9122558849&theme=tokyo-night&hide_border=true" alt="Pratik's contribution graph" />
 </p>
 
 ---
@@ -75,7 +74,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pratik9122558849&theme=algolia&row=1&column=7" alt="Pratik's GitHub trophies" />
 
 </p>
 
@@ -98,16 +97,8 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Pratik9122558849">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -122,7 +113,6 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=14B8A6&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Pratik9122558849&color=14B8A6&style=for-the-badge)
 
 </p>
-```
