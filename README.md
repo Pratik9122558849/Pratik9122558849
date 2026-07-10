@@ -3,11 +3,15 @@
 
 <p align="center">
   <a href="https://github.com/Pratik9122558849"><img src="https://img.shields.io/badge/GitHub-Pratik9122558849-00ff9d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub profile" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Pratik9122558849&color=00ff9d&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Pratik9122558849?style=flat-square&logo=github&label=FOLLOWERS&color=00ff9d&labelColor=0d1117" alt="GitHub followers" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications;Automating+workflows+with+Zoho+and+REST+APIs;Optimizing+MySQL%2C+Linux%2C+and+cloud+infrastructure;Exploring+AI%2C+automation%2C+and+application+security" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratik9122558849&color=00ff9d&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -19,6 +23,16 @@
 > Building integrations with Zoho CRM, Zoho Books, and REST APIs.
 > Optimizing MySQL queries and managing Linux, Apache, and Cloudways servers.
 > Exploring AI, automation, NLP, and secure-by-design development.
+```
+
+## `systemctl status pratik`
+
+```text
+● developer.service - Full-Stack Development Environment
+   Status:     online
+   Focus:      PHP · APIs · Automation · Database Performance
+   Mindset:    build clean · test carefully · secure by default
+   Exploring:  AI workflows · NLP · application security
 ```
 
 ## `./stack --active`
@@ -50,6 +64,17 @@
 
 ---
 
+## `security --principles`
+
+```text
+[+] Validate input and protect sensitive data
+[+] Keep secrets out of source control
+[+] Use least-privilege access where possible
+[+] Build reliable systems before adding complexity
+```
+
+---
+
 ## `git log --stats`
 
 <p align="center">
@@ -76,4 +101,10 @@
 
 ---
 
-<p align="center"><code>Build. Break. Harden. Repeat.</code></p>
+## `ping pratik`
+
+<p align="center">
+  <a href="https://github.com/Pratik9122558849"><img src="https://img.shields.io/badge/GitHub-Connect-00ff9d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Connect on GitHub" /></a>
+</p>
+
+<p align="center"><code>Build. Test. Harden. Repeat.</code></p>
